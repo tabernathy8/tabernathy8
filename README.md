@@ -2,7 +2,7 @@
 
 I am a recent graduate from The University of North Carolina at Charlotte with a major in Computer Science and a minor in Mathematics. I am experienced with networking, application hosting, and entry level software development. I have a passion for learning and I enjoy all things relating to technology.
 
-I am looking for opportunities in the field of software development, networking, cloud hosting, and information technology.
+I am looking for opportunities in the field of software development, networking, cloud hosting, or information technology.
 
 - :speech_balloon: Ask me Anything!
 - :smile: Pronouns: He/Him.
