@@ -4,7 +4,6 @@ I am a recent graduate from The University of North Carolina at Charlotte with a
 
 I am looking for opportunities in the field of software development, networking, cloud hosting, and information technology.
 
-- :seedling: I’m currently studying for certifications in AWS, Cisco, and Google Cloud.
 - :speech_balloon: Ask me Anything!
 - :smile: Pronouns: He/Him.
 
